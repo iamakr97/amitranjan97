@@ -1,10 +1,7 @@
-![MY images]([undefined](https://drive.google.com/drive/u/0/my-drive))  
-  
 
 ### <div align="center">I'm Amit, a full-stack developer 🚀</div>  
    
   
-
 - 🌱 I’m currently learning MERN Stack Development 
   
 
@@ -94,11 +91,6 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
 <br/>  
 
